@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maciej
 - 👀 I’m interested in mental health data analysis
 - 🌱 I’m currently learning SQL, PowerBI and R
-- 📫 How to reach me: via email macjan40@gmail.com
+- 📫 How to reach me: via email maciej.janczak.gp@gmail.com
 - ⚡ Fun fact: I'm PhD student
 
 <!---
